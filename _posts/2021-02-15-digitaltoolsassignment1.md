@@ -28,9 +28,8 @@ As far as sources go, I have taken the liberty and pleasure in extensively resea
 
 The sources I hope to utilize will be archives such as Princeton University’s as well as sites such as:
 
-* https://www.theanneboleynfiles.com/resources/anne-boleyn-words/henry-viiis-love-letters-to-anne-boleyn/ 
-* https://englishhistory.net/tudor/king-henry-viii-love-letters-to-anne-boleyn/ 
-* https://www.gutenberg.org/files/37499/37499-h/37499-h.htm
+* [The Anne Boleyn Files](https://www.theanneboleynfiles.com/resources/anne-boleyn-words/henry-viiis-love-letters-to-anne-boleyn/) 
+* [The Gutenberg Files](https://www.gutenberg.org/files/37499/37499-h/37499-h.htm)
 
 I would like my readers and viewers to have easy access to where I found my information for my project and hope to include a working bibliography! As I described in the last paragraph, in order to analyze these sources I hope to create an interactive digital platform / website.  
 
