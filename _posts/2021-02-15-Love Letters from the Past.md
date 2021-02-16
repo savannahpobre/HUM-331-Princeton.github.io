@@ -1,10 +1,10 @@
 ---
 layout: post
 author: Savannah Pobre 
-title: Digital Tools Assignment 1
+title: Love Letters from the Past
 ---
 
-### The Idea: 
+## The Idea: 
 
 ![Love Letters T.S. Elliot and Emily Hale](https://www.princeton.edu/sites/default/files/styles/scale_1440/public/images/2019/12/TSEliot_banner.jpg?itok=m2XmHYYU)
 
@@ -24,7 +24,7 @@ As far as sources go, I have taken the liberty and pleasure in extensively resea
 * George H.W. Bush to Barbara Bush 
 * Ronald Reagan to Nancy Reagan 
 
-### The Sources: 
+## The Sources: 
 
 The sources I hope to utilize will be archives such as Princeton University’s as well as sites such as:
 
@@ -33,6 +33,6 @@ The sources I hope to utilize will be archives such as Princeton University’s 
 
 I would like my readers and viewers to have easy access to where I found my information for my project and hope to include a working bibliography! As I described in the last paragraph, in order to analyze these sources I hope to create an interactive digital platform / website.  
 
-### The Issues: 
+## The Issues: 
 
 The trouble I can imagine having in the future while working on this project would be the inability to find letters that come from other relationships such as familial. I was hoping to be able to portray long distance as something that a multitude of people deal with in different senses of the word relationship. Afterall, missing family after being away at college is definitely something a lot more people may be able to relate to. The second issue I may face is the copyright on certain letters. From my understanding of the T.S. Elliot and Emily Hale letters, a lot of them are not available to the public to view on a digital platform. Hopefully, by choosing popular letters and relationships that are widely known, I can avoid this problem!
