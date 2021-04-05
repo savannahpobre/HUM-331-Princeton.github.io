@@ -11,7 +11,7 @@ title: The Daily Princeton March 9th, 2001 TEI Markup
 
 ## TEI Markup 
 ### The Daily Princetonian Header 
-```html
+```xml
 <ad/>
 <ad/>
 <ad/>
@@ -27,7 +27,7 @@ title: The Daily Princeton March 9th, 2001 TEI Markup
 ```
 
 ### The Daily Princetonian Column 
-```html
+```xml
 <div1 type="weekly wrap-up">
 <head><i>Weekly Wrap-Up</i></head>
 <div2 type="dean’s list">
@@ -44,11 +44,10 @@ title: The Daily Princeton March 9th, 2001 TEI Markup
 <p><i><pl>NEW JERSEY</pl></i> <wthr>Forecasts</wthr> of <ms>two to three feet</ms> of snow for the <pl>Garden State</pl> fail to materialize. <sar>Seems even <wthr>blizzards</wthr> like to avoid the armpitof <pl>America</pl>.</sar> </p>
 </div3>
 </div1>
-<!-- continues... →
 ```
 
 ## TEI Tags Cheat Sheet
-```html
+```xml
 - <ad> = advertisement / image with little text 
 - <i> = italicize 
 - <p> = paragraph 
